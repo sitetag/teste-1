@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+header{
+    background-color: rgb(85, 232, 232);
+}
+
+.content ul{
+   display: flex;
+   justify-content: space-around;
+   list-style-type: none;
+}
+main{
+    background-color: rgb(144, 244, 244);
+}
+.title{
+    font-size: 1rem;
+}
+.nome{
+    
+}
+.redes-sociais{
+   display: flex;
+   list-style-type: none;
+}
